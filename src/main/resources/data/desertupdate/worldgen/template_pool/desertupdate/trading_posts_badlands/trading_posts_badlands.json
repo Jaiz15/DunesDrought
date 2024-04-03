@@ -1,0 +1,38 @@
+{
+	"name": "desertupdate:desertupdate/trading_posts_badlands/trading_posts_badlands",
+	"fallback": "minecraft:empty",
+	"elements": [{
+		"weight": 10,
+		"element": {
+			"location": "desertupdate:desertupdate/builds/trading_posts_badlands/main/outpost_center_1",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},{
+		"weight": 10,
+		"element": {
+			"location": "desertupdate:desertupdate/builds/trading_posts_badlands/main/outpost_center_2",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},{
+		"weight": 10,
+		"element": {
+			"location": "desertupdate:desertupdate/builds/trading_posts_badlands/main/outpost_center_3",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},{
+		"weight": 10,
+		"element": {
+			"location": "desertupdate:desertupdate/builds/trading_posts_badlands/main/outpost_center_4",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	}
+]
+}

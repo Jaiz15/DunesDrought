@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "R": {
+      "item": "minecraft:copper_ingot"
+    },
+    "X": {
+      "item": "minecraft:stick"
+    },
+    "Y": {
+      "item": "desertupdate:battered_axe_remnant"
+    }
+  },
+  "pattern": [
+    "RYR",
+    " X "
+  ],
+  "result": {
+    "item": "desertupdate:battered_axe"
+  }
+}

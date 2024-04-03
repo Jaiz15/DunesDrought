@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "desertupdate:block/terracotta_bricks",
+    "side": "desertupdate:block/terracotta_bricks",
+    "top": "desertupdate:block/terracotta_bricks"
+  }
+}

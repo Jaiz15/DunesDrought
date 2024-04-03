@@ -1,0 +1,22 @@
+{
+	"name": "desertupdate:desertupdate/trading_posts/trading_posts_enemies",
+	"fallback": "minecraft:empty",
+	"elements": [{
+		"weight": 10,
+		"element": {
+			"location": "desertupdate:desertupdate/builds/trading_posts/enemies/bandit",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	}, {
+		"weight": 5,
+		"element": {
+			"location": "desertupdate:desertupdate/builds/trading_posts/enemies/mimic_pot",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	}
+]
+}

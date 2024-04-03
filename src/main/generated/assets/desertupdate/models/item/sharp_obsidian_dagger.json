@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "desertupdate:item/sharp_obsidian_dagger"
+  }
+}

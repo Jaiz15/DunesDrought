@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "desertupdate:desert_oak_log",
+    "desertupdate:desert_oak_wood",
+    "desertupdate:stripped_desert_oak_log",
+    "desertupdate:stripped_desert_oak_wood"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "R": {
+      "item": "desertupdate:wedge_obsidian_shard"
+    },
+    "X": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "R",
+    "R",
+    "X"
+  ],
+  "result": {
+    "item": "desertupdate:wedge_obsidian_sword"
+  }
+}

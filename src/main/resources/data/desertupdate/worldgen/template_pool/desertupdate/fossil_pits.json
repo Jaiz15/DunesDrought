@@ -1,0 +1,62 @@
+{
+	"name": "desertupdate:desertupdate/oasis",
+	"fallback": "minecraft:empty",
+	"elements": [{
+		"weight": 10,
+		"element": {
+			"location": "desertupdate:desertupdate/builds/fossil_pits/fossil_pit_01",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},{
+		"weight": 10,
+		"element": {
+			"location": "desertupdate:desertupdate/builds/fossil_pits/fossil_pit_02",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},{
+		"weight": 10,
+		"element": {
+			"location": "desertupdate:desertupdate/builds/fossil_pits/fossil_pit_03",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},{
+		"weight": 10,
+		"element": {
+			"location": "desertupdate:desertupdate/builds/fossil_pits/fossil_pit_04",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},{
+		"weight": 10,
+		"element": {
+			"location": "desertupdate:desertupdate/builds/fossil_pits/fossil_pit_05",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},{
+		"weight": 10,
+		"element": {
+			"location": "desertupdate:desertupdate/builds/fossil_pits/fossil_pit_06",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},{
+		"weight": 10,
+		"element": {
+			"location": "desertupdate:desertupdate/builds/fossil_pits/fossil_pit_07",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	}
+]
+}

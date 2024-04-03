@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "desertupdate:block/terracotta_brick_slab"
+    },
+    "type=double": {
+      "model": "desertupdate:block/terracotta_bricks"
+    },
+    "type=top": {
+      "model": "desertupdate:block/terracotta_brick_slab_top"
+    }
+  }
+}

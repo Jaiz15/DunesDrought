@@ -1,0 +1,165 @@
+{
+  "type": "minecraft:archaeology",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:flint"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:obsidian"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:emerald"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:music_disc_relic"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:heartbreak_pottery_sherd"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:friend_pottery_sherd"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:burn_pottery_sherd"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:red_dye"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:terracotta"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:diamond"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:iron_ingot"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:iron_nugget"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:gold_nugget"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "desertupdate:gilded_sandstone"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "desertupdate:fancy_purple_wool"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "desertupdate:fancy_cyan_wool"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "desertupdate:fancy_pink_wool"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "desertupdate:fancy_magenta_wool"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "desertupdate:fancy_green_wool"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "desertupdate:fancy_lime_wool"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "desertupdate:fancy_yellow_wool"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "desertupdate:fancy_red_wool"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "desertupdate:fancy_light_blue_wool"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "desertupdate:fancy_light_gray_wool"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "desertupdate:fancy_gray_wool"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "desertupdate:fancy_brown_wool"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "desertupdate:fancy_black_wool"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "desertupdate:fancy_blue_wool"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "desertupdate:sharp_obsidian_shard"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "desertupdate:wedge_obsidian_shard"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "desertupdate:obsidian_shard"
+        }
+      ]
+    }
+  ]
+}

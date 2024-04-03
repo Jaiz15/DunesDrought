@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "desertupdate:item/desert_oak_door"
+  }
+}

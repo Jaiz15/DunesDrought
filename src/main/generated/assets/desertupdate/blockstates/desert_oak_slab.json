@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "desertupdate:block/desert_oak_slab"
+    },
+    "type=double": {
+      "model": "desertupdate:block/desert_oak_planks"
+    },
+    "type=top": {
+      "model": "desertupdate:block/desert_oak_slab_top"
+    }
+  }
+}

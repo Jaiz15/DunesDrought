@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "desertupdate:block/desert_oak_sapling"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "desertupdate:block/desert_oak_planks",
+    "side": "desertupdate:block/desert_oak_planks",
+    "top": "desertupdate:block/desert_oak_planks"
+  }
+}

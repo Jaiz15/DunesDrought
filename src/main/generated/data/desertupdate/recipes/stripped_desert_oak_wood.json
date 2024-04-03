@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "R": {
+      "item": "desertupdate:stripped_desert_oak_log"
+    }
+  },
+  "pattern": [
+    "RR",
+    "RR"
+  ],
+  "result": {
+    "count": 4,
+    "item": "desertupdate:stripped_desert_oak_wood"
+  }
+}

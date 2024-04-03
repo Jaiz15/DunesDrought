@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "R": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "desertupdate:desert_oak_planks"
+    }
+  },
+  "pattern": [
+    "RXR",
+    "RXR"
+  ],
+  "result": {
+    "item": "desertupdate:desert_oak_fence_gate"
+  }
+}

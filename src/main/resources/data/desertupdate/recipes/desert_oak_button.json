@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "desertupdate:desert_oak_planks"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "desertupdate:desert_oak_button"
+  }
+}

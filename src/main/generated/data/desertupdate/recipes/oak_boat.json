@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": {
+      "item": "desertupdate:desert_oak_planks"
+    }
+  },
+  "pattern": [
+    "R R",
+    "RRR"
+  ],
+  "result": {
+    "item": "minecraft:oak_boat"
+  }
+}

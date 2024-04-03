@@ -1,0 +1,30 @@
+{
+  "origami_hairball": {
+    "sounds": [ {
+      "name": "desertupdate:origami_hairball",
+      "stream": true
+    }
+    ]
+  },
+  "ancient_horn_01": {
+    "subtitle": "sounds.desertupdate.bellow",
+    "sounds": [
+      "desertupdate:ancient_horn_01",
+      "desertupdate:ancient_horn_02"
+    ]
+  },
+  "ancient_horn_02": {
+    "subtitle": "sounds.desertupdate.wallow",
+    "sounds": [
+      "desertupdate:ancient_horn_04",
+      "desertupdate:ancient_horn_05",
+      "desertupdate:ancient_horn_06"
+    ]
+  },
+  "ancient_horn_03": {
+    "subtitle": "sounds.desertupdate.mourn",
+    "sounds": [
+      "desertupdate:ancient_horn_03"
+    ]
+  }
+}

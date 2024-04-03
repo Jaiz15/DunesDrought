@@ -1,0 +1,58 @@
+{
+	"schemaVersion": 1,
+	"id": "desertupdate",
+	"version": "${version}",
+	"name": "Dunes&Drought",
+	"description": "Expands The Minecraft Desert Biome",
+	"authors": [
+		"Jaiz",
+		"Bonus Builders:",
+		"- Quark",
+		"- Emchmu",
+		"- Spprinkles",
+		"- Bh",
+		"- Heulandite",
+		"Music Disc Makers:",
+		"- Cassandra Byk",
+		"- Gabe",
+		"- Marisa N",
+		"- Sewer_Rat (Screamed Alot)",
+		"- Julessss (Moo'd Alot)",
+		"- Green (Was Green!!)",
+		"- Spinky.gov (Painting Collaborator)",
+		"- SixFootBlue",
+		"StefanJ2",
+		"OatsCorn"
+
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/desertupdate/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"jaiz.desertupdate.DunesDrought"
+		],
+		"client": [
+			"jaiz.desertupdate.DunesDroughtClient"
+		],
+		"fabric-datagen": [
+			"jaiz.desertupdate.DunesDroughtDataGenerator"
+		]
+	},
+	"mixins": [
+		"desertupdate.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.3",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

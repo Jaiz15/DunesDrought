@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "R": {
+      "item": "desertupdate:desert_oak_planks"
+    }
+  },
+  "pattern": [
+    "RR"
+  ],
+  "result": {
+    "item": "desertupdate:desert_oak_pressure_plate"
+  }
+}

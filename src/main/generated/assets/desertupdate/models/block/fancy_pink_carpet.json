@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/carpet",
+  "textures": {
+    "wool": "desertupdate:block/fancy_pink_wool"
+  }
+}

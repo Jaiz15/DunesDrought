@@ -1,0 +1,70 @@
+{
+	"name": "desertupdate:desertupdate/trading_posts_badlands/trading_posts_badlands_next_level",
+	"fallback": "minecraft:empty",
+	"elements": [{
+		"weight": 10,
+		"element": {
+			"location": "desertupdate:desertupdate/builds/trading_posts_badlands/next_level/next_level_1",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},{
+		"weight": 10,
+		"element": {
+			"location": "desertupdate:desertupdate/builds/trading_posts_badlands/next_level/next_level_2",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},{
+		"weight": 10,
+		"element": {
+			"location": "desertupdate:desertupdate/builds/trading_posts_badlands/next_level/next_level_3",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},{
+		"weight": 10,
+		"element": {
+			"location": "desertupdate:desertupdate/builds/trading_posts_badlands/next_level/next_level_4",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},{
+		"weight": 10,
+		"element": {
+			"location": "desertupdate:desertupdate/builds/trading_posts_badlands/next_level/next_level_5",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},{
+		"weight": 10,
+		"element": {
+			"location": "desertupdate:desertupdate/builds/trading_posts_badlands/next_level/next_level_6",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},{
+		"weight": 10,
+		"element": {
+			"location": "desertupdate:desertupdate/builds/trading_posts_badlands/next_level/next_level_7",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},{
+			"weight": 10,
+			"element": {
+				"location": "desertupdate:desertupdate/builds/trading_posts_badlands/extensions/extension_2",
+				"processors": "minecraft:empty",
+				"projection": "rigid",
+				"element_type": "minecraft:single_pool_element"
+			}
+		}
+]
+}

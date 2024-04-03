@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "desertupdate:desert_oak_log",
+    "desertupdate:desert_oak_wood",
+    "desertupdate:desert_oak_planks",
+    "desertupdate:stripped_desert_oak_log",
+    "desertupdate:stripped_desert_oak_wood",
+    "desertupdate:spice_barrel",
+    "desertupdate:desert_oak_slab",
+    "desertupdate:desert_oak_fence",
+    "desertupdate:desert_oak_fence_gate",
+    "desertupdate:desert_oak_stairs",
+    "desertupdate:desert_oak_trapdoor",
+    "desertupdate:desert_oak_door",
+    "desertupdate:desert_oak_pressure_plate",
+    "desertupdate:desert_oak_button"
+  ]
+}

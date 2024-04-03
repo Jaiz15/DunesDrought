@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": {
+      "item": "minecraft:carrot"
+    },
+    "S": {
+      "item": "minecraft:beetroot"
+    },
+    "X": {
+      "item": "desertupdate:rare_spices"
+    },
+    "Y": {
+      "item": "minecraft:cooked_chicken"
+    }
+  },
+  "pattern": [
+    "RX",
+    "SY"
+  ],
+  "result": {
+    "item": "desertupdate:gourmet_meal"
+  }
+}

@@ -1,0 +1,46 @@
+{
+	"name": "desertupdate:desertupdate/oasis",
+	"fallback": "minecraft:empty",
+	"elements": [{
+		"weight": 10,
+		"element": {
+			"location": "desertupdate:desertupdate/builds/oasis/oasis_1",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	}, {
+		"weight": 10,
+		"element": {
+			"location": "desertupdate:desertupdate/builds/oasis/oasis_2",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	}, {
+		"weight": 10,
+		"element": {
+			"location": "desertupdate:desertupdate/builds/oasis/oasis_3",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	}, {
+		"weight": 10,
+		"element": {
+			"location": "desertupdate:desertupdate/builds/oasis/oasis_4",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	}, {
+		"weight": 10,
+		"element": {
+			"location": "desertupdate:desertupdate/builds/oasis/oasis_5",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	}
+]
+}

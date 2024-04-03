@@ -1,0 +1,14 @@
+{
+	"placement": {
+		"type": "minecraft:random_spread",
+		"salt": 78485265,
+		"separation": 10,
+		"spacing": 26,
+		"spread_type": "triangular"
+	},
+	"structures": [{
+		"structure": "desertupdate:oasis",
+		"weight": 1
+	}
+	]
+}

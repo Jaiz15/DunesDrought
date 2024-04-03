@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "R": {
+      "item": "desertupdate:terracotta_bricks"
+    }
+  },
+  "pattern": [
+    "RRR",
+    "RRR"
+  ],
+  "result": {
+    "count": 6,
+    "item": "desertupdate:terracotta_brick_wall"
+  }
+}
