@@ -335,6 +335,26 @@ public class ModRecipeProvider extends FabricRecipeProvider {
 
         //Desert Oak
 
+        ShapedRecipeJsonBuilder.create(RecipeCategory.BUILDING_BLOCKS, ModItems.DESERT_OAK_SIGN, 3)
+                .pattern("RRR")
+                .pattern("RRR")
+                .pattern(" X ")
+                .input('R', ModBlocks.DESERT_OAK_PLANKS)
+                .input('x', Items.STICK)
+                .criterion(hasItem(ModBlocks.DESERT_OAK_PLANKS), conditionsFromItem(ModBlocks.DESERT_OAK_PLANKS))
+                .criterion(hasItem(Items.STICK), conditionsFromItem(Items.STICK))
+                .offerTo(exporter, new Identifier(getRecipeName(ModItems.DESERT_OAK_SIGN)));
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.BUILDING_BLOCKS, ModItems.HANGING_DESERT_OAK_SIGN, 6)
+                .pattern("X X")
+                .pattern("RRR")
+                .pattern("RRR")
+                .input('R', ModBlocks.STRIPPED_DESERT_OAK_LOG)
+                .input('X', Blocks.CHAIN)
+                .criterion(hasItem(ModBlocks.STRIPPED_DESERT_OAK_LOG), conditionsFromItem(ModBlocks.STRIPPED_DESERT_OAK_LOG))
+                .criterion(hasItem(Blocks.CHAIN), conditionsFromItem(Blocks.CHAIN))
+                .offerTo(exporter, new Identifier(getRecipeName(ModItems.HANGING_DESERT_OAK_SIGN)));
+
         ShapedRecipeJsonBuilder.create(RecipeCategory.BUILDING_BLOCKS, ModBlocks.DESERT_OAK_DOOR, 3)
                 .pattern("RR")
                 .pattern("RR")

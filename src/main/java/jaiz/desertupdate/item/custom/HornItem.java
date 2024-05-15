@@ -1,6 +1,8 @@
 package jaiz.desertupdate.item.custom;
 
 import jaiz.desertupdate.sound.ModSounds;
+import net.minecraft.client.render.entity.CatEntityRenderer;
+import net.minecraft.client.render.entity.FrogEntityRenderer;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
@@ -30,4 +32,5 @@ public class HornItem extends Item {
         user.getItemCooldownManager().set(this, 60);
         return TypedActionResult.success(itemStack, world.isClient());
     }
+
 }
