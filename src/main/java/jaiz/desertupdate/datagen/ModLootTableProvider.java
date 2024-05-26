@@ -47,20 +47,21 @@ public class ModLootTableProvider extends FabricBlockLootTableProvider {
         addDrop(ModBlocks.DESERT_OAK_FENCE_GATE);
         addDrop(ModBlocks.DESERT_OAK_SAPLING);
 
-        addDrop(ModBlocks.STANDING_DESERT_OAK_SIGN);
-        addDrop(ModBlocks.WALL_DESERT_OAK_SIGN);
         addDrop(ModBlocks.HANGING_DESERT_OAK_SIGN);
         addDrop(ModBlocks.WALL_HANGING_DESERT_OAK_SIGN);
+        addDrop(ModBlocks.STANDING_DESERT_OAK_SIGN);
+        addDrop(ModBlocks.WALL_DESERT_OAK_SIGN);
+
+
         addDrop(ModBlocks.HONEYCOMB_DIRT);
         addDrop(ModBlocks.TERRACOTTA_BRICKS);
-        addDrop(ModBlocks.CUT_COBBLESTONE);
 
         addDrop(ModBlocks.TERRACOTTA_BRICK_WALL);
         addDrop(ModBlocks.TERRACOTTA_BRICK_SLAB, slabDrops(ModBlocks.TERRACOTTA_BRICK_SLAB));
         addDrop(ModBlocks.TERRACOTTA_BRICK_STAIRS);
 
 
-        addDrop(ModBlocks.DESERT_OAK_LEAVES, leavesDrops(ModBlocks.DESERT_OAK_LEAVES, ModBlocks.DESERT_OAK_SAPLING, 0.025f));
+        addDrop(ModBlocks.DESERT_OAK_LEAVES, leavesDrops(ModBlocks.DESERT_OAK_LEAVES, ModBlocks.DESERT_OAK_SAPLING, 0.1f));
 
 
     }

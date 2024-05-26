@@ -40,7 +40,6 @@ public class ModModelProvider extends FabricModelProvider {
         blockStateModelGenerator.registerLog(ModBlocks.STRIPPED_DESERT_OAK_LOG).log(ModBlocks.STRIPPED_DESERT_OAK_LOG).wood(ModBlocks.STRIPPED_DESERT_OAK_WOOD);
 
         blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.DESERT_OAK_LEAVES);
-        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.CUT_COBBLESTONE);
 
         BlockStateModelGenerator.BlockTexturePool desert_oak_pool = blockStateModelGenerator.registerCubeAllModelTexturePool(ModBlocks.DESERT_OAK_PLANKS);
         desert_oak_pool.family(ModBlocks.DESERT_OAK_FAMILY);
@@ -67,6 +66,7 @@ public class ModModelProvider extends FabricModelProvider {
 
         blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.HONEYCOMB_DIRT);
 
+        blockStateModelGenerator.registerHangingSign(ModBlocks.HANGING_DESERT_OAK_SIGN, ModBlocks.HANGING_DESERT_OAK_SIGN, ModBlocks.WALL_HANGING_DESERT_OAK_SIGN);
 
     }
 
@@ -100,7 +100,6 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.register(ModItems.SHARP_REGULAR_OBSIDIAN_SWORD, Models.HANDHELD);
         itemModelGenerator.register(ModItems.WEDGE_REGULAR_OBSIDIAN_SWORD, Models.HANDHELD);
 
-        itemModelGenerator.register(ModItems.HANGING_DESERT_OAK_SIGN, Models.GENERATED);
 
         itemModelGenerator.register(ModItems.BANDIT_SPAWN_EGG,
                 new Model(Optional.of(new Identifier("item/template_spawn_egg")), Optional.empty()));

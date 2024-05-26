@@ -29,6 +29,9 @@ public class ModBlockTagProvider extends FabricTagProvider.BlockTagProvider {
         getOrCreateTagBuilder(BlockTags.FENCE_GATES)
                 .add(ModBlocks.DESERT_OAK_FENCE_GATE);
 
+        getOrCreateTagBuilder(BlockTags.LEAVES)
+                .add(ModBlocks.DESERT_OAK_LEAVES);
+
 
         getOrCreateTagBuilder(BlockTags.WOOL_CARPETS)
                 .add(ModBlocks.FANCY_WHITE_CARPET)

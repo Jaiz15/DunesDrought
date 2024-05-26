@@ -146,7 +146,6 @@ public class ModItems {
         entries.add(ModBlocks.GILDED_CHISELED_SANDSTONE);
         entries.add(ModBlocks.GILDED_CUT_SANDSTONE);
         entries.add(ModBlocks.GILDED_SANDSTONE);
-        entries.add(ModBlocks.CUT_COBBLESTONE);
         entries.add(ModBlocks.TERRACOTTA_BRICKS);
         entries.add(ModBlocks.TERRACOTTA_BRICK_STAIRS);
         entries.add(ModBlocks.TERRACOTTA_BRICK_WALL);

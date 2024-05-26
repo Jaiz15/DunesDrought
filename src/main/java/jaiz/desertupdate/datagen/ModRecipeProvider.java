@@ -528,13 +528,6 @@ public class ModRecipeProvider extends FabricRecipeProvider {
                 .criterion(hasItem(ModBlocks.TERRACOTTA_BRICKS), conditionsFromItem(ModBlocks.TERRACOTTA_BRICKS))
                 .offerTo(exporter, new Identifier(getRecipeName(ModBlocks.TERRACOTTA_BRICK_WALL)));
 
-        ShapedRecipeJsonBuilder.create(RecipeCategory.BUILDING_BLOCKS, ModBlocks.CUT_COBBLESTONE, 4)
-                .pattern("RR")
-                .pattern("RR")
-                .input('R', Blocks.COBBLESTONE)
-                .criterion(hasItem(Blocks.COBBLESTONE), conditionsFromItem(Blocks.COBBLESTONE))
-                .offerTo(exporter, new Identifier(getRecipeName(ModBlocks.CUT_COBBLESTONE)));
-
         ShapedRecipeJsonBuilder.create(RecipeCategory.FOOD, ModBlocks.SPICE_BARREL, 1)
                 .pattern("RRR")
                 .pattern("RXR")

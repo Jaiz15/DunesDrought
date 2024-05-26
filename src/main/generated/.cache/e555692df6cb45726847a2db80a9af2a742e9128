@@ -1,4 +1,4 @@
-// 1.20.4	2024-05-26T17:22:22.7920688	Dunes&Drought/Tags for minecraft:block
+// 1.20.4	2024-05-26T23:32:52.528753	Dunes&Drought/Tags for minecraft:block
 5b440fcf3091bcbcaa581dbac2166e5e57d68234 data\minecraft\tags\blocks\logs_that_burn.json
 e6f7ddd405e9bccfcf24458cc5506ebad2acb17d data\minecraft\tags\blocks\wool_carpets.json
 aadfa5c20cbd874aeaf563b6df9388d540ad4e91 data\minecraft\tags\blocks\wooden_fences.json
@@ -10,4 +10,5 @@ bd8a4227672b9105f890da6dbb07f007dc2bfb6c data\minecraft\tags\blocks\wooden_butto
 4532f6d7b4ebad91f31e20d6d0abe6819cd9a348 data\minecraft\tags\blocks\wooden_slabs.json
 093c33a25d271dac10ffc1a0998ef2577a3088da data\minecraft\tags\blocks\wooden_pressure_plates.json
 563eeb4be31e2a6aedbf53429ac9179fbecefdfc data\minecraft\tags\blocks\walls.json
+62e2c0b3977e02970dc73a4d61abb170475d45b5 data\minecraft\tags\blocks\leaves.json
 79a73651efee1265ecc325ff75c709bf8c696673 data\minecraft\tags\blocks\fences.json

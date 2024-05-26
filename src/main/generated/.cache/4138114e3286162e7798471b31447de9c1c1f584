@@ -1,4 +1,4 @@
-// 1.20.4	2024-05-26T17:22:22.7870697	Dunes&Drought/Recipes
+// 1.20.4	2024-05-26T23:32:52.5227487	Dunes&Drought/Recipes
 4696941bfb2398d4b7eb48e9c8a9d5353c6ef669 data\desertupdate\recipes\desert_oak_pressure_plate.json
 0ac2c51f54a82f545c4204d98077619ffa1d618e data\desertupdate\advancements\recipes\building_blocks\fancy_light_gray_wool.json
 b61925905fd394b631558b01a91e8cfeba76b5a5 data\desertupdate\advancements\recipes\building_blocks\terracotta_bricks.json
@@ -60,8 +60,8 @@ ee8b0ebdafc3c555132a8de8628dbade822d4c74 data\desertupdate\advancements\recipes\
 2c09173a6f8786d6c23301369e22be90be51193c data\desertupdate\advancements\recipes\building_blocks\fancy_cyan_carpet.json
 5086502e7022b5c2caa3ef16e360b44821171873 data\desertupdate\recipes\fancy_lime_wool.json
 5714c076ac39006a0878229d57fbcd98465d02f6 data\desertupdate\recipes\wedge_obsidian_sword.json
-b136827c0d5ac25d1406c4bef35b03a3bfd7b4e8 data\desertupdate\recipes\obsidian_sword.json
 6578c729261befe0e0d4d347e6720b1414734c14 data\desertupdate\recipes\desert_oak_wood.json
+b136827c0d5ac25d1406c4bef35b03a3bfd7b4e8 data\desertupdate\recipes\obsidian_sword.json
 8576a7bd847e7fd81a14ca98e10dda12cf4b4cb7 data\desertupdate\advancements\recipes\building_blocks\cut_cobblestone.json
 94625d44e3f72aec311973a85b7609897b59d564 data\desertupdate\advancements\recipes\redstone\desert_oak_pressure_plate.json
 384f9cde095a8c77d1469e3f282b671d474e710b data\desertupdate\recipes\fancy_purple_carpet.json

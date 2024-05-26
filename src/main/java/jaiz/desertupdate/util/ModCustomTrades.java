@@ -13,6 +13,11 @@ public class ModCustomTrades {
         //Spice trader
         TradeOfferHelper.registerVillagerOffers(ModVillagers.SPICE_TRADER, 1, factories -> {
             factories.add((entity, random) -> new TradeOffer(
+                    new ItemStack(Items.EMERALD, 6),
+                    new ItemStack(ModItems.RARE_SPICES, 1),
+                    4, 1, 0.05f
+            ));
+            factories.add((entity, random) -> new TradeOffer(
                     new ItemStack(ModItems.RARE_SPICES, 12),
                     new ItemStack(Items.CHARCOAL, 3),
                     4, 1, 0.05f
@@ -100,6 +105,11 @@ public class ModCustomTrades {
         });
 
         TradeOfferHelper.registerVillagerOffers(ModVillagers.SPICE_TRADER, 2, factories -> {
+            factories.add((entity, random) -> new TradeOffer(
+                    new ItemStack(Items.EMERALD, 5),
+                    new ItemStack(ModItems.RARE_SPICES, 1),
+                    4, 1, 0.05f
+            ));
             factories.add((entity, random) -> new TradeOffer(
                     new ItemStack(ModItems.RARE_SPICES, 3),
                     new ItemStack(Items.COPPER_INGOT, 1),

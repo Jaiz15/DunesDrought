@@ -132,7 +132,7 @@ public class ModBlocks {
             new PressurePlateBlock(BlockSetType.OAK, FabricBlockSettings.copyOf(Blocks.OAK_PRESSURE_PLATE)));
 
     public static final Block DESERT_OAK_LEAVES = registerBlock("desert_oak_leaves",
-            new LeavesBlock(FabricBlockSettings.copyOf(Blocks.OAK_LEAVES).strength(1f).nonOpaque()));
+            new LeavesBlock(FabricBlockSettings.copyOf(Blocks.OAK_LEAVES).nonOpaque()));
 
     public static final Identifier DESERT_OAK_SIGN_TEXTURE = new Identifier(DunesDrought.MOD_ID, "entity/signs/desert_oak");
     public static final Identifier DESERT_OAK_HANGING_SIGN_TEXTURE = new Identifier(DunesDrought.MOD_ID, "entity/signs/hanging/desert_oak");
@@ -142,13 +142,13 @@ public class ModBlocks {
     new TerraformSignBlock(DESERT_OAK_SIGN_TEXTURE, FabricBlockSettings.copyOf(Blocks.OAK_SIGN)));
 
     public static final Block WALL_DESERT_OAK_SIGN = Registry.register(Registries.BLOCK, new Identifier(DunesDrought.MOD_ID, "desert_oak_wall_sign"),
-            new TerraformWallSignBlock(DESERT_OAK_SIGN_TEXTURE, FabricBlockSettings.copyOf(Blocks.OAK_WALL_SIGN)));
+            new TerraformWallSignBlock(DESERT_OAK_SIGN_TEXTURE, FabricBlockSettings.copyOf(ModBlocks.STANDING_DESERT_OAK_SIGN)));
 
     public static final Block HANGING_DESERT_OAK_SIGN = Registry.register(Registries.BLOCK, new Identifier(DunesDrought.MOD_ID, "desert_oak_hanging_sign"),
             new TerraformHangingSignBlock(DESERT_OAK_HANGING_SIGN_TEXTURE, DESERT_OAK_HANGING_GUI_SIGN_TEXTURE, FabricBlockSettings.copyOf(Blocks.OAK_HANGING_SIGN)));
 
     public static final Block WALL_HANGING_DESERT_OAK_SIGN = Registry.register(Registries.BLOCK, new Identifier(DunesDrought.MOD_ID, "desert_oak_wall_hanging_sign"),
-            new TerraformWallHangingSignBlock(DESERT_OAK_HANGING_SIGN_TEXTURE, DESERT_OAK_HANGING_GUI_SIGN_TEXTURE, FabricBlockSettings.copyOf(Blocks.OAK_WALL_HANGING_SIGN)));
+            new TerraformWallHangingSignBlock(DESERT_OAK_HANGING_SIGN_TEXTURE, DESERT_OAK_HANGING_GUI_SIGN_TEXTURE, FabricBlockSettings.copyOf(ModBlocks.HANGING_DESERT_OAK_SIGN)));
 
     // Fancy Bits for the desert oak
     public static final Block DESERT_OAK_STAIRS = registerBlock("desert_oak_stairs",
@@ -192,9 +192,6 @@ public class ModBlocks {
 
     public static final Block TERRACOTTA_BRICK_WALL= registerBlock("terracotta_brick_wall",
             new WallBlock(FabricBlockSettings.copyOf(Blocks.STONE_BRICK_WALL).requiresTool()));
-
-    public static final Block CUT_COBBLESTONE = registerBlock("cut_cobblestone",
-            new Block(FabricBlockSettings.copyOf(Blocks.COBBLESTONE).requiresTool()));
 
     public static final Block SPICE_BARREL = registerBlock("spice_barrel",
             new Block(FabricBlockSettings.copyOf(Blocks.OAK_PLANKS)));
