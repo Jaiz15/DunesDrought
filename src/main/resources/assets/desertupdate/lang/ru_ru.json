@@ -150,5 +150,6 @@
   "item.desertupdate.wedge_obsidian_sword": "Клиновидный Обсидиановый Меч",
   "item.desertupdate.wedge_regular_obsidian_sword": "Обычный Клиновидный Обсидиановый Меч",
   "item.desertupdate.sharp_wedge_obsidian_sword": "Острый Клиновидный Обсидиановый Меч",
-  "item.desertupdate.sharp_regular_obsidian_sword": "Обычный Острый Обсидиановый Меч"
+  "item.desertupdate.sharp_regular_obsidian_sword": "Обычный Острый Обсидиановый Меч",
+  "entity.minecraft.villager.spice_trader": "Spice Trader"
 }

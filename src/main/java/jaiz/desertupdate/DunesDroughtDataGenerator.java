@@ -20,6 +20,7 @@ public class DunesDroughtDataGenerator implements DataGeneratorEntrypoint {
 		pack.addProvider(ModRecipeProvider::new);
 		pack.addProvider(ModBlockTagProvider::new);
 		pack.addProvider(ModWorldGenerator::new);
+		pack.addProvider(ModPoiTagProvider::new);
 
 	}
 

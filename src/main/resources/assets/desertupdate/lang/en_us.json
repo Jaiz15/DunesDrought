@@ -150,5 +150,7 @@
   "item.desertupdate.wedge_obsidian_sword": "Wedge Obsidian Sword",
   "item.desertupdate.wedge_regular_obsidian_sword": "Wedge Regular Obsidian Sword",
   "item.desertupdate.sharp_wedge_obsidian_sword": "Sharp Wedge Obsidian Sword",
-  "item.desertupdate.sharp_regular_obsidian_sword": "Sharp Regular Obsidian Sword"
+  "item.desertupdate.sharp_regular_obsidian_sword": "Sharp Regular Obsidian Sword",
+
+  "entity.minecraft.villager.spice_trader": "Spice Trader"
 }

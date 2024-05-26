@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "R": {
+      "item": "desertupdate:stripped_desert_oak_log"
+    },
+    "X": {
+      "item": "minecraft:chain"
+    }
+  },
+  "pattern": [
+    "X X",
+    "RRR",
+    "RRR"
+  ],
+  "result": {
+    "count": 6,
+    "item": "desertupdate:hanging_desert_oak_sign"
+  }
+}

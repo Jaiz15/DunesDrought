@@ -7,6 +7,7 @@ import jaiz.desertupdate.entity.custom.MasonmouthEntity;
 import jaiz.desertupdate.item.ModItems;
 import jaiz.desertupdate.item.custom.ModFoodComponents;
 import jaiz.desertupdate.util.ModCustomTrades;
+import jaiz.desertupdate.villager.ModVillagers;
 import jaiz.desertupdate.world.ModConfiguredFeatures;
 import jaiz.desertupdate.world.gen.ModWorldGeneration;
 import net.fabricmc.api.ModInitializer;
@@ -134,15 +135,7 @@ public class DunesDrought implements ModInitializer {
 		StrippableBlockRegistry.register(ModBlocks.DESERT_OAK_LOG, ModBlocks.STRIPPED_DESERT_OAK_LOG);
 		StrippableBlockRegistry.register(ModBlocks.DESERT_OAK_WOOD, ModBlocks.STRIPPED_DESERT_OAK_WOOD);
 
-
-
-
-
-
-
-
-
-
+		ModVillagers.registerVillagers();
 
 
 
