@@ -1,4 +1,4 @@
-// 1.20.4	2024-05-26T23:32:52.5207506	Dunes&Drought/Block Loot Tables
+// 1.20.4	2024-05-27T21:40:20.8869805	Dunes&Drought/Block Loot Tables
 df05fd47e4e0b0eec007a910166161904af8fbf4 data\desertupdate\loot_tables\blocks\desert_oak_hanging_sign.json
 ea18548191144430389beb1ea0d4966082b86f92 data\desertupdate\loot_tables\blocks\terracotta_brick_wall.json
 8f189daa60c5fd1be186982ee3fe7be3c459a6dd data\desertupdate\loot_tables\blocks\desert_oak_leaves.json
@@ -8,7 +8,6 @@ e3874c339a98ab2204b08b9611c9949a7b11ffb0 data\desertupdate\loot_tables\blocks\de
 8088f8ef85f14a70246a482449ff28222e83a797 data\desertupdate\loot_tables\blocks\fancy_pink_wool.json
 2abc3b8114b9dbdd582a69904dd6bfb64ea86c95 data\desertupdate\loot_tables\blocks\fancy_orange_wool.json
 6a0db586a80529b07c3ffcbb652ff54a03a3ade5 data\desertupdate\loot_tables\blocks\desert_oak_stairs.json
-07d41845ed42ba19df560c2e2cd148c9218c96ac data\desertupdate\loot_tables\blocks\cut_cobblestone.json
 0c72bd499461f55a33735f8afcddd9fec7fe9a3a data\desertupdate\loot_tables\blocks\desert_oak_slab.json
 00764525e7d31489bc5b3d4c10123dccb92e9065 data\desertupdate\loot_tables\blocks\desert_oak_log.json
 8d1b64e80e5e6b373ae5c301bbebe99806d14465 data\desertupdate\loot_tables\blocks\fancy_red_wool.json

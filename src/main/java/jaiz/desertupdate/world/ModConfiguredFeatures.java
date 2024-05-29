@@ -29,9 +29,9 @@ public class ModConfiguredFeatures {
 
 
                 BlockStateProvider.of(ModBlocks.DESERT_OAK_LEAVES),
-                new BlobFoliagePlacer(ConstantIntProvider.create(2), ConstantIntProvider.create(2), 2),
+                new BlobFoliagePlacer(ConstantIntProvider.create(1), ConstantIntProvider.create(1), 2),
 
-                new TwoLayersFeatureSize(3, 0, 2)).build());
+                new TwoLayersFeatureSize(1, 1, 1)).build());
     }
 
     public static RegistryKey<ConfiguredFeature<?, ?>> registerKey(String name) {

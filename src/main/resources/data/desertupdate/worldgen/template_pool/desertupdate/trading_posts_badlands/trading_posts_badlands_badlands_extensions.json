@@ -188,14 +188,6 @@
 	},{
 		"weight": 10,
 		"element": {
-			"location": "desertupdate:desertupdate/builds/trading_posts_badlands/extensions/extension_24",
-			"processors": "minecraft:empty",
-			"projection": "rigid",
-			"element_type": "minecraft:single_pool_element"
-		}
-	},{
-		"weight": 10,
-		"element": {
 			"location": "desertupdate:desertupdate/builds/trading_posts_badlands/extensions/extension_25",
 			"processors": "minecraft:empty",
 			"projection": "rigid",
@@ -220,23 +212,7 @@
 	},{
 		"weight": 10,
 		"element": {
-			"location": "desertupdate:desertupdate/builds/trading_posts_badlands/extensions/extension_28",
-			"processors": "minecraft:empty",
-			"projection": "rigid",
-			"element_type": "minecraft:single_pool_element"
-		}
-	},{
-		"weight": 10,
-		"element": {
 			"location": "desertupdate:desertupdate/builds/trading_posts_badlands/extensions/extension_29",
-			"processors": "minecraft:empty",
-			"projection": "rigid",
-			"element_type": "minecraft:single_pool_element"
-		}
-	},{
-		"weight": 10,
-		"element": {
-			"location": "desertupdate:desertupdate/builds/trading_posts_badlands/extensions/extension_30",
 			"processors": "minecraft:empty",
 			"projection": "rigid",
 			"element_type": "minecraft:single_pool_element"

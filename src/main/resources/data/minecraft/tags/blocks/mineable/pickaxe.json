@@ -7,7 +7,6 @@
     "desertupdate:terracotta_bricks",
     "desertupdate:terracotta_brick_wall",
     "desertupdate:terracotta_brick_slab",
-    "desertupdate:terracotta_brick_stairs",
-    "desertupdate:cut_cobblestone"
+    "desertupdate:terracotta_brick_stairs"
   ]
 }
